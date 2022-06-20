@@ -56,7 +56,7 @@ Việc áp dụng mô hình vào dữ liệu test dẫn đến độ chính xác
 
 ![](https://github.com/kenjius01/voice-app/blob/main/result.png)
 
-## Movie Page
+### Movie Page
   #### Link demo chức năng: [Demo](https://drive.google.com/file/d/14qmCDGYmiuuVfmAssPTSL8tM8iSjtFCE/view?usp=sharing)
   + Người dùng có thể tra các câu lệnh ở nút '?'
   + Tìm kiếm phim theo năm
@@ -67,3 +67,7 @@ Việc áp dụng mô hình vào dữ liệu test dẫn đến độ chính xác
   + Xem trailer về phim (Lệnh: Play trailer for + tên phim)
   + Xem tổng hợp những nhận xét, đánh giá, phê bình và điểm số của một bộ phim thông qua số thứ tự (Lệnh: Open the movie + số thứ tự phim)
 
+### Xem dự báo thời tiết
+#### Link demo chức năng: [Demo]
++ Xem dự báo thời tiết ở một thành phố cụ thể (Dùng lệnh: Give me the weather in + tên thành phố).
+Khi đó, giao diện sẽ hiển lên một thẻ các thông tin thời tiết của thành phố đó, bao gồm: nhiệt độ, trạng thái (có mây, mưa, ...), thời điểm bắt đầu bình minh, hoàng hôn, tốc độ gió, độ ẩm cũng như thông tin thời tiết về các ngày trong tuần. Qua đó, có thể có được cái nhìn khách quan về thời tiết một cách rõ ràng hơn.
